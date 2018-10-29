@@ -1,0 +1,110 @@
+</body><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav id="siteHeader">
+        <hr color="lightgray">
+        <div>
+            <div class="headerSection">
+                <div class="topnav">
+                    <a href="">Home <br>
+                         <p>frontpage</p>
+                    </a>
+                    
+
+                    <a href="">About <br>
+                    <p>who we are</p>
+
+                    </a>
+                        
+                    <a href="">Services <br>
+                         <p>what we offer</p>
+                    </a>
+                    
+                    <a href="">Case Studies <br>
+                        <p>what we've done</p>
+                    </a>
+                    
+                    <a href="">Testimonia <br>
+                        <p>kudos by our clients</p>
+                    </a>
+                    
+
+                    <a href="">F.A.Q <br>
+                        <p>questions?</p>
+                    </a>
+                    
+
+                    <a href="">Say Hello <br>
+                        <p>drop us a note or a RFQ</p>
+                    </a>
+                    
+                </div>
+            </div>
+        </div>
+        <hr color="lightgray">
+    </nav>
+
+    <h1>webwise</h1>
+    <p>solutions</p>
+    <p align="right">building great communities powered by drupal</p>
+
+    <hr align="right" width="38%" height="50">
+
+    <table height="600" width="60%" bgcolor="#B8B8BDFF">
+
+        <h2 align="right">Introducing...</h2>
+        
+    </table>
+
+
+</body>    
+</html>
+
+
+//.style.css
+
+body{
+    background: white;
+}
+
+.headerSection{
+    height: 60px;
+    background: white;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: white;
+}
+.topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 4px 45px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a{
+    font-weight: bold;
+}
+
+h1{
+    font-family: broadway;
+}
+
+p{
+    height: 40px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h2{
+    padding-right: 450px;
+}
+
